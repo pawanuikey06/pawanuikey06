@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm **Pawan Kumar Uikey**, a passionate developer 
    - Machine learning and deep learning.
    
 - 📫 How to reach me:
-   - Email: [your-email@example.com](mailto:your-email@example.com)
+   - Email: [pawanuikey690@gmail.com.com](mailto:your-email@example.com)
    - LinkedIn: [linkedin.com/in/pawanuikey](https://linkedin.com/in/pawanuikey)
    - GitHub: [github.com/pawanuikey06](https://github.com/pawanuikey06)
    
